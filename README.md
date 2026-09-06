@@ -1,34 +1,33 @@
-# Joaquin Caly Di Sarli
+Joaquin Caly Di Sarli
+Développeur autodidacte — Web & Cybersécurité
 
-Founder of Revisoo — an AI-powered learning project built to help people learn faster with technology.
+Je construis des applications web et des produits orientés utilisateur, avec un intérêt fort pour le développement front-end, l'intégration de l'IA dans des outils pratiques, et les fondamentaux réseau/cybersécurité.
 
-I build AI-driven products and user-focused web apps, with a strong interest in product design, front-end development, and practical software that solves real problems.
+Actuellement à la recherche d'un stage d'observation (semaine du 23 au 27 novembre 2026) — informatique, développement, cybersécurité.
 
-## What I’m working on
+What I'm working on
 
-- Revisoo: `Apprenez plus vite avec l’IA`
-- Interactive web experiences and landing pages
-- Small product experiments with real user value
+MemoBTP : outil SaaS pour automatiser la rédaction de dossiers d'appels d'offres BTP
+Interactive web experiences and landing pages
+Small product experiments with real user value
 
-## Focus areas
+Focus areas
 
-- AI applications
-- Web development
-- Product thinking
-- Clean UI and simple UX
+Web development (Next.js, React)
+Réseau & Cybersécurité (notions : DNS, nmap, Wireshark)
+Product thinking
+Clean UI and simple UX
 
-## Featured projects
+Featured projects
 
-- [Revisoo](https://revisoo.com)
-- [DailySmile](https://github.com/jcds-20/dailysmile)
-- [HabilleToiFrero](https://github.com/jcds-20/HabilleToiFrero)
-- [R-PDF](https://github.com/jcds-20/R-PDF)
+MemoBTP
+R-PDF
+Self Avis
+DailySmile
 
-## Tech I use
+Tech I use
+HTML, CSS, JavaScript, React, Next.js, Supabase, Stripe, APIs, notions réseau (DNS, nmap, Wireshark, Python).
 
-HTML, CSS, JavaScript, React, Next.js, APIs, and AI tools.
+Contact
 
-## Contact
-
-- Website: https://revisoo.com
-- Email: revisoo.ia@gmail.com
+Email : calydisarlijoaquin@gmail.com
